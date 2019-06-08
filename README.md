@@ -1,5 +1,9 @@
 # DeepLearning-PadhAI
 
+<p align="center"><img width="40%" src="1_assests/logo.png" /></p>
+
+--------------------------------------------------------------------------------
+
 This repository contains the code files taught from the deep learning course from [PadhAI](https://padhai.onefourthlabs.in/).
 
 Each folder inside the repo contains the code for the respective topic.
