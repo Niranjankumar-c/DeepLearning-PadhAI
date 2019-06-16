@@ -1,9 +1,8 @@
-# Activation Functions and Weight Initialisation Methods
+# Getting Started With Pytorch
+This folder provides tutorial code for deep learning researchers to learn PyTorch.
 
-This repository contains the code for analyzing the effect of activations and weight initialisation methods on deep neural network.
-
-### Jump into code
-
+## Jump into code
 - Click here to open the code in colab
-[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/Feedforward_NeuralNetworrks/blob/master/FeedForwardNetworks/FeedForwardNeuralNetwork.ipynb)
+
+   [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/DeepLearning_Materials/2_GettingStarted_With_Pytorch/PytorchIntro.ipynb)
 
