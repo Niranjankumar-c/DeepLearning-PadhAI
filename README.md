@@ -7,7 +7,7 @@
 This repository contains the code files taught from the deep learning course from [PadhAI](https://padhai.onefourthlabs.in/).
 
 ## Repository Structure
-Each folder inside the repo contains the code for the respective topic and has support to execute the code directly in Google colab and Kaggle Kernels without worrying about installing the dependencies
+Each folder inside the repo contains the code for the respective topic and has support to execute the code directly in Google colab and/or Kaggle Kernels without worrying about installing the dependencies
 
 ## Table of Contents
 * [ActivationFunction_WeightMethods](DeepLearning_Materials/1_ActivationFunction_WeightMethods): This folder contains the code for analysis the different activation functions and weight initialisation methods. Check out the [blog post](https://towardsdatascience.com/implementing-different-activation-functions-and-weight-initialization-methods-using-python-c78643b9f20f?source=friends_link&sk=a01c0daa99d57ea6c45fff6aaace2b8a)
