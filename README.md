@@ -12,10 +12,6 @@ Each folder inside the repo contains the code for the respective topic and has s
 ## Table of Contents
 * [ActivationFunction_WeightMethods](DeepLearning_Materials/1_ActivationFunction_WeightMethods): This folder contains the code for analysis the different activation functions and weight initialisation methods. Check out the [blog post](https://towardsdatascience.com/implementing-different-activation-functions-and-weight-initialization-methods-using-python-c78643b9f20f?source=friends_link&sk=a01c0daa99d57ea6c45fff6aaace2b8a)
 * [PytorchIntro](DeepLearning_Materials/2_GettingStarted_With_Pytorch): This folder provides tutorial code for deep learning researchers to learn PyTorch. Check out the [blog post](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)
-
-
-Jupyter Notebook in Colab: [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/ActivationFunction_WeightMethods/InitialisationActivationFunctions.ipynb)
-
 <br/>
 
 ## Getting Started
