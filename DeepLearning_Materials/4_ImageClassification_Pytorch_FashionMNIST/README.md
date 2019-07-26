@@ -15,8 +15,11 @@ This repository contains the tutorial code for building Image Classifier Using P
 
 ## Jump into code
 
-- Click here to open the code in colab
-[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/DeepLearning_Materials/3_Feedforward_With_Pytorch/FFNetworksWithPyTorch.ipynb)
+- Click here to open the code to classify CIFAR10 in colab
+[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/DeepLearning_Materials/4_ImageClassification_Pytorch_FashionMNIST/PyTorchCNN_CIFAR10.ipynb)
+
+- Click here to open the code to classify FashionMNIST in colab
+[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/DeepLearning_Materials/4_ImageClassification_Pytorch_FashionMNIST/PyTorchCNN_FashionMNIST.ipynb)
 
 ## Tutorial Blog 
 * TBD
