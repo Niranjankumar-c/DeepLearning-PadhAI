@@ -1,15 +1,16 @@
 # Activation Functions and Weight Initialisation Methods
 
-This repository contains the code for analyzing the effect of activations and weight initialisation methods on deep neural network.
+This repository contains the code for analyzing how regularization helps to address the problem of overfitting in deep neural network.
 
 ## Outline of the Notebook
-* Setup Packages
-* Generate data
-* Write a feedforward class
-* Analyze the activation functions and weight initialization methods
+1. L2 norm and loading datasets
+2. Modifying our FF Class
+3. Use more complex models to reduce bias
+4. Demonstrate overfitting for very large models
+5. Use L2 regularisation for preventing overfitting
+6. Use noise on training data for preventing overfitting
+7. Exercises
 
-## Methodology
-The way we analyze the effect of activations and weight initialisation methods on deep neural network is, first we will generate non-linearly separable data with two classes and write our simple feedforward neural network that supports all the activation functions and weight initialization methods. Then compare the different scenarios using loss plots
 
 ## Jump into code
 
@@ -19,8 +20,4 @@ The way we analyze the effect of activations and weight initialisation methods o
 
 ## Blog posts
 Related blog posts for better understanding of the code in this repository:
-> ### Theory
-* [Deep Learning: Feedforward Neural Networks Explained](https://hackernoon.com/deep-learning-feedforward-neural-networks-explained-c34ae3f084f1)
-> ### Code Implementation Walkthrough
-* [Building a Feedforward Neural Network from Scratch in Python](https://hackernoon.com/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
-* [Implementing and Analyzing different Activation Functions and Weight Initialization Methods Using Python](https://towardsdatascience.com/implementing-different-activation-functions-and-weight-initialization-methods-using-python-c78643b9f20f)
+* NA
