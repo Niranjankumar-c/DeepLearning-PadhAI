@@ -12,6 +12,8 @@ Each folder inside the repo contains the code for the respective topic and has s
 ## Contents of the repository
 * [ActivationFunction and WeightMethods](DeepLearning_Materials/1_ActivationFunction_WeightMethods): Analyzing the effect of activations and weight initialisation methods on deep neural network.
   * Blog: [Implementing and Analyzing different Activation Functions and Weight Initialization Methods Using Python](https://towardsdatascience.com/implementing-different-activation-functions-and-weight-initialization-methods-using-python-c78643b9f20f?source=friends_link&sk=a01c0daa99d57ea6c45fff6aaace2b8a)
+* [Overfitting and Regularization](DeepLearning_Materials/2_OverFitting_Regularization_NeuralNetworks): concept of overfitting in deep neural networks and how regularization helps to address the problem of overfitting.
+  * Blog: NA
 * [PytorchIntro](DeepLearning_Materials/3_GettingStarted_With_Pytorch): Tutorial code for deep learning researchers to learn PyTorch using GPU in Colab.
   * Blog: [Getting Started With Pytorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)
 * [Feedforward With Pytorch](DeepLearning_Materials/4_Feedforward_With_Pytorch): Tutorial code for building feedforward neural networks using Pytorch.
