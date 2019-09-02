@@ -17,8 +17,10 @@ Each folder inside the repo contains the code for the respective topic and has s
 * [PytorchIntro](DeepLearning_Materials/3_GettingStarted_With_Pytorch): Tutorial code for deep learning researchers to learn PyTorch using GPU in Colab.
   * Blog: [Getting Started With Pytorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)
 * [Feedforward With Pytorch](DeepLearning_Materials/4_Feedforward_With_Pytorch): Tutorial code for building feedforward neural networks using Pytorch.
-   * Blog: [Building a Feedforward Neural Network using Pytorch NN Module](https://www.marktechpost.com/2019/06/30/building-a-feedforward-neural-network-using-pytorch-nn-module/)
+  * Blog: [Building a Feedforward Neural Network using Pytorch NN Module](https://www.marktechpost.com/2019/06/30/building-a-feedforward-neural-network-using-pytorch-nn-module/)
 * [Image Classification Using Pytorch](DeepLearning_Materials/5_ImageClassification_Pytorch_FashionMNIST): Building Image classifier using Pytorch on CIFAR10, FashionMNIST datasets
+  * Blog: [Introduction to Image Classification using Pytorch to Classify FashionMNIST Dataset](https://www.marktechpost.com/2019/07/30/introduction-to-image-classification-using-pytorch-to-classify-fashionmnist-dataset/)
+
 <br/>
 
 ## Getting Started
