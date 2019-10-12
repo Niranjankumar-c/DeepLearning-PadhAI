@@ -20,7 +20,7 @@ Each folder inside the repo contains the code for the respective topic and has s
   * Blog: [Building a Feedforward Neural Network using Pytorch NN Module](https://www.marktechpost.com/2019/06/30/building-a-feedforward-neural-network-using-pytorch-nn-module/)
 * [Image Classification Using Pytorch](DeepLearning_Materials/5_ImageClassification_Pytorch_FashionMNIST): Building Image classifier using Pytorch on CIFAR10, FashionMNIST datasets
   * Blog: [Introduction to Image Classification using Pytorch to Classify FashionMNIST Dataset](https://www.marktechpost.com/2019/07/30/introduction-to-image-classification-using-pytorch-to-classify-fashionmnist-dataset/)
-
+* [Visualizing CNN Models](DeepLearning_Materials/6_VisualizationCNN_Pytorch): Visualizing the filters present in CNN.
 <br/>
 
 ## Getting Started
