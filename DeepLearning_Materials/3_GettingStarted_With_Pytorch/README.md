@@ -16,7 +16,7 @@ This folder provides tutorial code for deep learning researchers to learn PyTorc
 ## Jump into code
 - Click here to open the code in colab
 
-   [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/DeepLearning_Materials/2_GettingStarted_With_Pytorch/PytorchIntro.ipynb)
+   [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/DeepLearning_Materials/3_GettingStarted_With_Pytorch/PytorchIntro.ipynb)
 
 - If kaggle kernel is your jam, feel free to fork or download the kernel and start practising
 https://www.kaggle.com/niranjankumarc/gettingstartedwithpytorch-gpu

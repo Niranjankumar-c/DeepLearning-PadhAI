@@ -20,7 +20,7 @@ This repository contains the tutorial code for Building a Feedforward Neural Net
 ## Jump into code
 
 - Click here to open the code in colab
-[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/DeepLearning_Materials/3_Feedforward_With_Pytorch/FFNetworksWithPyTorch.ipynb)
+[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/DeepLearning_Materials/4_Feedforward_With_Pytorch/FFNetworksWithPyTorch.ipynb)
 
 ## Medium Blog 
 * Follow this blog for the detailed explanation of code. [Building a Feedforward Neural Network using Pytorch NN Module](https://www.marktechpost.com/2019/06/30/building-a-feedforward-neural-network-using-pytorch-nn-module/)
