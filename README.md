@@ -11,17 +11,17 @@ Each folder inside the repo contains the code for the respective topic and has s
 
 ## Contents of the repository
 * [ActivationFunction and WeightMethods](DeepLearning_Materials/1_ActivationFunction_WeightMethods): Analyzing the effect of activations and weight initialisation methods on deep neural network.
-  * Blog: [Implementing and Analyzing different Activation Functions and Weight Initialization Methods Using Python](https://towardsdatascience.com/implementing-different-activation-functions-and-weight-initialization-methods-using-python-c78643b9f20f?source=friends_link&sk=a01c0daa99d57ea6c45fff6aaace2b8a)
+  * **Blog**: [Implementing and Analyzing different Activation Functions and Weight Initialization Methods Using Python](https://towardsdatascience.com/implementing-different-activation-functions-and-weight-initialization-methods-using-python-c78643b9f20f?source=friends_link&sk=a01c0daa99d57ea6c45fff6aaace2b8a)
 * [Overfitting and Regularization](DeepLearning_Materials/2_OverFitting_Regularization_NeuralNetworks): concept of overfitting in deep neural networks and how regularization helps to address the problem of overfitting.
-  * Blog: NA
+  * **Blog**: [Regularization Techniques for Better Neural Network Performance](https://heartbeat.fritz.ai/deep-learning-best-practices-regularization-techniques-for-better-performance-of-neural-network-94f978a4e518)
 * [PytorchIntro](DeepLearning_Materials/3_GettingStarted_With_Pytorch): Tutorial code for deep learning researchers to learn PyTorch using GPU in Colab.
-  * Blog: [Getting Started With Pytorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)
+  * **Blog**: [Getting Started With Pytorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)
 * [Feedforward With Pytorch](DeepLearning_Materials/4_Feedforward_With_Pytorch): Tutorial code for building feedforward neural networks using Pytorch.
-  * Blog: [Building a Feedforward Neural Network using Pytorch NN Module](https://www.marktechpost.com/2019/06/30/building-a-feedforward-neural-network-using-pytorch-nn-module/)
+  * **Blog**: [Building a Feedforward Neural Network using Pytorch NN Module](https://www.marktechpost.com/2019/06/30/building-a-feedforward-neural-network-using-pytorch-nn-module/)
 * [Image Classification Using Pytorch](DeepLearning_Materials/5_ImageClassification_Pytorch_FashionMNIST): Building Image classifier using Pytorch on CIFAR10, FashionMNIST datasets
-  * Blog: [Introduction to Image Classification using Pytorch to Classify FashionMNIST Dataset](https://www.marktechpost.com/2019/07/30/introduction-to-image-classification-using-pytorch-to-classify-fashionmnist-dataset/)
+  * **Blog**: [Introduction to Image Classification using Pytorch to Classify FashionMNIST Dataset](https://www.marktechpost.com/2019/07/30/introduction-to-image-classification-using-pytorch-to-classify-fashionmnist-dataset/)
 * [Visualizing CNN Models](DeepLearning_Materials/6_VisualizationCNN_Pytorch): Visualizing the filters present in CNN.
-  * Blog: [Visualizing Convolution Neural Networks using Pytorch](https://towardsdatascience.com/visualizing-convolution-neural-networks-using-pytorch-3dfa8443e74e)
+  * **Blog**: [Visualizing Convolution Neural Networks using Pytorch](https://towardsdatascience.com/visualizing-convolution-neural-networks-using-pytorch-3dfa8443e74e)
 * [Batch Normalization and Dropout in Neural Networks](DeepLearning_Materials/7_BatchNormalization): Batch Norm and Dropout explained with Pytorch
 
 <br/>
