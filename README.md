@@ -21,10 +21,11 @@ Each folder inside the repo contains the code for the respective topic and has s
 * [Image Classification Using Pytorch](DeepLearning_Materials/5_ImageClassification_Pytorch_FashionMNIST): Building Image classifier using Pytorch on CIFAR10, FashionMNIST datasets
   * Blog: [Introduction to Image Classification using Pytorch to Classify FashionMNIST Dataset](https://www.marktechpost.com/2019/07/30/introduction-to-image-classification-using-pytorch-to-classify-fashionmnist-dataset/)
 * [Visualizing CNN Models](DeepLearning_Materials/6_VisualizationCNN_Pytorch): Visualizing the filters present in CNN.
-<br/>
   * Blog: [Visualizing Convolution Neural Networks using Pytorch](https://towardsdatascience.com/visualizing-convolution-neural-networks-using-pytorch-3dfa8443e74e)
 * [Batch Normalization and Dropout in Neural Networks](DeepLearning_Materials/7_BatchNormalization): Batch Norm and Dropout explained with Pytorch
 
+
+<br/>
 ## Getting Started
 ```bash
 $ git clone https://github.com/Niranjankumar-c/DeepLearning-PadhAI.git
