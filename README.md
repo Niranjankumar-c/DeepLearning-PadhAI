@@ -24,8 +24,8 @@ Each folder inside the repo contains the code for the respective topic and has s
   * Blog: [Visualizing Convolution Neural Networks using Pytorch](https://towardsdatascience.com/visualizing-convolution-neural-networks-using-pytorch-3dfa8443e74e)
 * [Batch Normalization and Dropout in Neural Networks](DeepLearning_Materials/7_BatchNormalization): Batch Norm and Dropout explained with Pytorch
 
-
 <br/>
+
 ## Getting Started
 ```bash
 $ git clone https://github.com/Niranjankumar-c/DeepLearning-PadhAI.git
