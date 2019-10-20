@@ -20,4 +20,5 @@ This repository contains the code for analyzing how regularization helps to addr
 
 ## Blog posts
 Related blog posts for better understanding of the code in this repository:
-* NA
+* [Deep Learning Best Practices: Activation Functions & Weight Initialization Methods](https://medium.com/datadriveninvestor/deep-learning-best-practices-activation-functions-weight-initialization-methods-part-1-c235ff976ed)
+* [Regularization Techniques for Better Neural Network Performance](https://heartbeat.fritz.ai/deep-learning-best-practices-regularization-techniques-for-better-performance-of-neural-network-94f978a4e518)
